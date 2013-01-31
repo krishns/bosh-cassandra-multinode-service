@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BOSH Release for cassandra-singlenode
 
 ## Release to your BOSH
@@ -48,3 +49,7 @@ bosh deploy
 
 Example `properties` for your `manifest.yml` can be taken from the examples in `examples\`
 
+=======
+bosh-cassandra-multinode-service
+================================
+>>>>>>> f0209130315cd465ac08cc766b9a4a0668d0a608
