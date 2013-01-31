@@ -1,1 +1,13 @@
---- {}
+---
+java/jre-7u4-linux-i586.tar.gz:
+  object_id: 28764631-ae06-4480-b28f-4345def0847c
+  sha: b8eee3f910083f5b7f490df75dcae9544da1f964
+  size: 34239229
+java/jre-7u4-linux-x64.tar.gz:
+  object_id: fa7f4d6f-2018-47f3-a9b2-38aab0d9e073
+  sha: 1108d1744baa73bf6caa2adf965d0f489ea1ef60
+  size: 32771159
+cassandra/apache-cassandra-1.2.0-bin.tar.gz:
+  object_id: 6286e0dd-ee9f-4484-870b-ba83495aa598
+  sha: 22a90d65dde1ad073f2dd804960cc1c743f9302b
+  size: 15915913
